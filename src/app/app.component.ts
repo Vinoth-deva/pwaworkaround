@@ -9,7 +9,9 @@ export class AppComponent implements OnInit {
   title = 'pwaworkaround';
   deferredPrompt: any;
   showButton = false;
+  
   constructor() { }
+
   ngOnInit(): void {
   }
 
